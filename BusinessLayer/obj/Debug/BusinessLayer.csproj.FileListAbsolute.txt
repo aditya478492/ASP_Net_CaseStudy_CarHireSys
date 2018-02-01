@@ -1,0 +1,8 @@
+C:\Users\VJ00478492\Documents\Visual Studio 2013\Projects\ASP.net\CaseStudy2\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\VJ00478492\Documents\Visual Studio 2013\Projects\ASP.net\CaseStudy2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\VJ00478492\Documents\Visual Studio 2013\Projects\ASP.net\CaseStudy2\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\VJ00478492\Documents\Visual Studio 2013\Projects\ASP.net\CaseStudy2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\VJ00478492\Documents\Visual Studio 2013\Projects\ASP.net\CaseStudy2\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Courses\code_examples\CaseStudy2\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Courses\code_examples\CaseStudy2\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Courses\code_examples\CaseStudy2\BusinessLayer\obj\Debug\BusinessLayer.pdb

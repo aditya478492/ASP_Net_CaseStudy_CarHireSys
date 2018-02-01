@@ -1,0 +1,12 @@
+C:\Users\VJ00478492\Documents\Visual Studio 2013\Projects\ASP.net\CaseStudy2\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Users\VJ00478492\Documents\Visual Studio 2013\Projects\ASP.net\CaseStudy2\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Users\VJ00478492\Documents\Visual Studio 2013\Projects\ASP.net\CaseStudy2\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+C:\Users\VJ00478492\Documents\Visual Studio 2013\Projects\ASP.net\CaseStudy2\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Users\VJ00478492\Documents\Visual Studio 2013\Projects\ASP.net\CaseStudy2\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Courses\code_examples\CaseStudy2\DatabaseLayer\obj\Debug\DatabaseLayer.csprojResolveAssemblyReference.cache
+C:\Courses\code_examples\CaseStudy2\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+C:\Courses\code_examples\CaseStudy2\DatabaseLayer\obj\Debug\DatabaseLayer.pdb
+C:\Courses\code_examples\CaseStudy2\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+C:\Courses\code_examples\CaseStudy2\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+C:\Courses\code_examples\CaseStudy2\DatabaseLayer\bin\Debug\BusinessLayer.dll
+C:\Courses\code_examples\CaseStudy2\DatabaseLayer\bin\Debug\BusinessLayer.pdb

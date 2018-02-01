@@ -1,0 +1,12 @@
+c:\users\vj00478492\documents\visual studio 2013\Projects\ASP.net\CaseStudy2\CaseStudy2\bin\CaseStudy2.dll.config
+c:\users\vj00478492\documents\visual studio 2013\Projects\ASP.net\CaseStudy2\CaseStudy2\bin\CaseStudy2.dll
+c:\users\vj00478492\documents\visual studio 2013\Projects\ASP.net\CaseStudy2\CaseStudy2\bin\CaseStudy2.pdb
+c:\users\vj00478492\documents\visual studio 2013\Projects\ASP.net\CaseStudy2\CaseStudy2\obj\Debug\CaseStudy2.csprojResolveAssemblyReference.cache
+c:\users\vj00478492\documents\visual studio 2013\Projects\ASP.net\CaseStudy2\CaseStudy2\obj\Debug\CaseStudy2.dll
+c:\users\vj00478492\documents\visual studio 2013\Projects\ASP.net\CaseStudy2\CaseStudy2\obj\Debug\CaseStudy2.pdb
+C:\Courses\code_examples\CaseStudy2\CaseStudy2\obj\Debug\CaseStudy2.csprojResolveAssemblyReference.cache
+C:\Courses\code_examples\CaseStudy2\CaseStudy2\obj\Debug\CaseStudy2.dll
+C:\Courses\code_examples\CaseStudy2\CaseStudy2\obj\Debug\CaseStudy2.pdb
+C:\Courses\code_examples\CaseStudy2\CaseStudy2\bin\CaseStudy2.dll.config
+C:\Courses\code_examples\CaseStudy2\CaseStudy2\bin\CaseStudy2.dll
+C:\Courses\code_examples\CaseStudy2\CaseStudy2\bin\CaseStudy2.pdb
